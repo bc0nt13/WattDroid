@@ -140,4 +140,5 @@ public class WattDroid extends ListActivity {
     list = prefs.getString("list", "<unset>");
   }
 
+
 }
